@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Nguyễn Lý
-- 👀 I’m interested in gái
-- 🌱 I’m currently learning :)) 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me đéo biết
+- 👋 Chào, tôi là Nguyễn Lý
+- 🌱 Hiện tại tôi học THCS và chỉ mới 2k7 :Đ
+- 📫 Có thể liên hệ tôi qua facebook: fb.com/nguyenly.userfb
 
 <!---
 lydeptrai12/lydeptrai12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

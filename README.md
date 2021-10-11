@@ -1,5 +1,5 @@
 - 👋 Chào, tôi là Nguyễn Lý
-- 🌱 Hiện tại tôi học THCS và chỉ mới 2k7 :Đ
+- 🌱 Tôi chỉ mới 2k7 
 - 📫 Có thể liên hệ tôi qua facebook: fb.com/nguyenly.userfb
 
 <!---

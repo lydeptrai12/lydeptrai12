@@ -1,5 +1,4 @@
 - 👋 Chào, tôi là Nguyễn Lý
-- 🌱 Tôi chỉ mới 2k7 
 - 📫 Có thể liên hệ tôi qua facebook: fb.com/nguyenly.uwu
 
 <!---

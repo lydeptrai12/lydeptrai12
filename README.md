@@ -1,5 +1,4 @@
 - 👋 Chào, tôi là Nguyễn Lý
-- 📫 Có thể liên hệ tôi qua facebook: fb.com/nguyenly.uwu
 
 <!---
 lydeptrai12/lydeptrai12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
